@@ -16,3 +16,5 @@
 ![code_find_04](./code-find/code_find_04.gif)
 
 ![code_find_05](./code-find/code_find_05.gif)
+
+![schedule_demo](./code-find/schedule_demo.gif)
