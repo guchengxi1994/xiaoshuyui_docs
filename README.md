@@ -18,3 +18,5 @@
 ![code_find_05](./code-find/code_find_05.gif)
 
 ![schedule_demo](./code-find/schedule_demo.gif)
+
+![gantt_demo](./code-find/gantt_demo.gif)
