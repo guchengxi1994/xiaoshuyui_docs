@@ -20,3 +20,5 @@
 ![schedule_demo](./code-find/schedule_demo.gif)
 
 ![gantt_demo](./code-find/gantt_demo.gif)
+
+![small-demo](./code-find/a-small-demo-of-provider.gif)
